@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian tolleration, or, Simply and singly to meet upon the account of religion, really to worship and serve the Lord, without any unlawful act to be done or intended, is not an offence against law and also concerning seditious sectaries, disloyal persons, and seditious conventicles punishable by the late act : and likewise concerning banishments ...</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40929</idno>
+            <idno type="STC">Wing F477</idno>
+            <idno type="STC">ESTC R1637</idno>
+            <idno type="EEBO-CITATION">12306164</idno>
+            <idno type="OCLC">ocm 12306164</idno>
+            <idno type="VID">59260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 914:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian tolleration, or, Simply and singly to meet upon the account of religion, really to worship and serve the Lord, without any unlawful act to be done or intended, is not an offence against law and also concerning seditious sectaries, disloyal persons, and seditious conventicles punishable by the late act : and likewise concerning banishments ...</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+                  <note>Attributed to Richard Farnworth. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Toleration.</term>
+               <term>Freedom of religion --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59260:1"/>
+            <pb facs="tcp:59260:1" rendition="simple:additions"/>
+            <p>CHRISTIAN Tolleration.</p>
+            <p>OR Simply and ſingly to meet upon the Account of Religion, really to Worſhip and ſerve the Lord, without any un<g ref="char:EOLhyphen"/>lawful Act to be done or intended, is not an Offence againſt Law.</p>
+            <p>And alſo concerning Seditious Sectaries, diſloyal Perſons, and Seditious Conventicles puniſhable by the late Act. And likewiſe concerning Baniſhment; For no man by the Law of the Land ought to be Baniſhed out of his Native Country for the ſervice and Worſhip of God; Or as hereafter Ap<g ref="char:EOLhyphen"/>peareth.</p>
+            <p>Written in the eighth Month. 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59260:2"/>
+            <pb n="1" facs="tcp:59260:2" rendition="simple:additions"/>
+            <head>Concerning Seditious Sectaries, Diſ<g ref="char:EOLhyphen"/>loyal Perſons, and Seditious Con<g ref="char:EOLhyphen"/>venticles, <hi>&amp;c.</hi>
+            </head>
+            <p>FIrſt, By the late Act of Parliament Entituled An Act to prevent and Suppreſs ſeditious Conven<g ref="char:EOLhyphen"/>ticles, it is declared in the Preamble or ground of the Act, which is the Reaſon for making the Act,<note place="margin">16. <hi>Car.</hi> 2.
+<hi>fol.</hi> 25.</note> That the ſpeedy Remedies thereby Provided are a<g ref="char:EOLhyphen"/>gainſt the growing and dangerous Practiſes of ſeditious Sectaries, and diſloyal Perſons, who under pretence of tender Conſciences, do at their meetings contrive In<g ref="char:EOLhyphen"/>ſurrections, as late experience hath ſhewed.</p>
+            <p>So that thoſe are the dangerous Perſons and Practi<g ref="char:EOLhyphen"/>ſes, that are to be ſuppreſſed, who do at their meetings contrive Inſurrections as aforefaid; And they are the ſeditious Sectaries, and diſloyal Perſons, and their meetings are ſeditious Conventicles, who aſſemble and meet together under colour of Religious exerciſes, and pretend tenderneſs of Conſcience, to the intent that they may contrive Inſurrections, and cover over and proſecute a wicked intention under ſo fair a pretence, which ſo to do is great wickedneſs; and if there be a<g ref="char:EOLhyphen"/>ny Perſons or People who meet together under colour of religious exerciſe, and pretence of tender<g ref="char:EOLhyphen"/>neſs of Conſcience, to contrive Inſurrections at their meetings; There is good Reaſon to provide Remedies againſt the growing and dangerous practiſes of ſuch as
+<pb n="2" facs="tcp:59260:3"/>do meet to contrive Inſurrections, as aforeſaid; And thoſe meetings may juſtly be declared <hi>To be ſeditious Conventicles,</hi> and unlawful Aſſemblies, becauſe they meet about ſeditious and unlawful Actions, who meet to deſign and contrive Inſurrections.</p>
+            <p>Secondly, It is declared to be an Offence for five Perſons over and above them of the houſhold, to be preſent at any Aſſembly,<note place="margin">16. <hi>Car.</hi> 2. <hi>fol.</hi> 26.</note> Conventicle, or Meeting, un<g ref="char:EOLhyphen"/>der colour or pretence of any Exerciſe of Religion, in other manner than is allowed by the <hi>Lyturgie,</hi> or pra<g ref="char:EOLhyphen"/>ctiſe of the Church of <hi>England.</hi>
+            </p>
+            <p>So that it is no Offence (againſt the Law) for Per<g ref="char:EOLhyphen"/>ſons to Aſſemble and meet together really and truly for no other end, intent or purpoſe but to ſerve and wor<g ref="char:EOLhyphen"/>ſhip the Lord, though they meet to the number of five, or above, beſide them of the houſhold, becauſe the <hi>Liturgie</hi> of the Church allows of the ſame, ſaying, <hi>It is right, very meet, and our bounden duty to meet toge<g ref="char:EOLhyphen"/>ther at all times and in all places to give thanks</hi> (or perform duty and ſervice) <hi>to the Lord.</hi>
+            </p>
+            <p>What is it for many perſons to aſſemble and meet together upon the account of religious Exerciſe, ac<g ref="char:EOLhyphen"/>cording to the manner allowed of by the <hi>Liturgie,</hi> or practiſe of the Church of <hi>England?</hi>
+            </p>
+            <p>To aſſemble and meet together (to the number of five or above, beſide them of the houſhold before the Lord upon the account of Religion, as Worſhippers of him, to render thanks unto God for the great benefits that we have received of him, to ſet forth his moſt worthy praiſe, to hear his moſt holy Word, and to aſk thoſe things that be requiſite and neceſſary, both for ſoul and body, and in the performance of that duty to
+<pb n="3" facs="tcp:59260:3"/>accompany one another in Prayer, with a pure heart, and an humble voice to the Throne of Gods heavenly grace, is according to the <hi>Liturgie</hi> of the Church as a<g ref="char:EOLhyphen"/>foreſaid, and is allowed of thereby. For proof thereof, ſee the beginning of the <hi>Liturgie.</hi>
+            </p>
+            <p>What is it then for Perſons to aſſemble and meet together to the number of five, or above, beſide the houſhold or family in other manner than is allowed of by the <hi>Liturgie,</hi> or practiſe of the Church of <hi>England?</hi>
+            </p>
+            <p>To aſſemble and meet together under colour or pre<g ref="char:EOLhyphen"/>tence of religious Exerciſes, To contrive Inſurrections is to meet in other manner than is allowed of by the <hi>Liturgie</hi> or practice of the Church; for neither the <hi>Liturgie,</hi> nor practice of the Church alloweth of any ſuch actions.</p>
+            <p>After what manner are the perſons offending againſt the ſaid Act (concerning meetings as aforeſaid) to be apprehended?</p>
+            <p>It ſeems a Juſtice of Peace, or chief Magiſtrate is to repair unto the place, where ſuch meetings are held, or to be held, and diſſolve, or prevent the ſame.</p>
+            <p>And if ſuch Juſtice of Peace, or chief Magiſtrate, be not able to ſuppreſſe or diſſolve the ſame, Then he may by certificate under his hand and feal, made to the Lieutenants, Deputy. Lieutenants, or Cummiſſioned Officers of the <hi>Militia, &amp;c.</hi> of his particular Informa<g ref="char:EOLhyphen"/>tion, or knowledge require or call for their Aſſiſtance;<note place="margin">16. <hi>Car.</hi> 2. <hi>fol.</hi> 34,
+35.</note> And he is to go in perſon with them unto the place, where the meetings are held, or to be held, and uſe the beſt means they can to diſſolve, and diſſipate, or pre<g ref="char:EOLhyphen"/>vent the ſame.</p>
+            <p>But it ſeems, That the Lieutenants, Deputy Lieu<g ref="char:EOLhyphen"/>tenants,
+<pb n="4" facs="tcp:59260:4"/>nor Commiſſioned Officers of the <hi>Militia,</hi> or ſouldiers, <hi>&amp;c.</hi> are not to meddle in diſſolving, diſſi<g ref="char:EOLhyphen"/>pating or preventing ſuch meetings without a certifi<g ref="char:EOLhyphen"/>cate from under the hand and ſeale of a Juſtice of Peace, or chief Magiſtrate, who himſelf is to be pre<g ref="char:EOLhyphen"/>ſent with them at the place where the meeting is held, or to be held as aforeſaid. 16. <hi>Car.</hi> 2. <hi>Reg.</hi> fol. 34, 35.</p>
+            <p>And no dwelling houſe of any perſon whatſoever muſt be entred into with force by vertue of the ſaid Act, but in the preſence of one Juſtice of the Peace, or chief Magiſtrate, except within the City of <hi>London;</hi> And there no dwelling houſe muſt be entred into as aforeſaid, but in the preſence of one Juſtice of the Peace, Alderman, deputy Alderman, or any one Com<g ref="char:EOLhyphen"/>miſſioner of the Lieutenancy for the City of <hi>London.</hi> 16. <hi>Car.</hi> 2. <hi>Regis</hi> fol. 37.</p>
+            <p>After the perſons offending, as aforeſaid, be appre<g ref="char:EOLhyphen"/>hended, how muſt they be convicted, and tried?</p>
+            <p>It ſeems, That for the firſt and ſecond offence, They muſt not be convicted or tried by a Jury, but two Juſtices of the Peace, or chief Magiſtrate (if it be within a corporation, where there are not two Juſtices of Peace) They are required and enjoyned upon proof to them, or him reſpectively made of ſuch offence, ei<g ref="char:EOLhyphen"/>ther by confeſſion of the Party, or Oath of witneſſes, or notorious evidence of the fact, To make a Record of every ſuch offence under their hands and ſeals re<g ref="char:EOLhyphen"/>ſpectively, which Record ſo made, is to be taken and adjudged to be a full and perfect Conviction of every ſuch Offender, for ſuch Offence. 16. <hi>Car.</hi> 2. <hi>Regis fol.</hi> 26, 27.</p>
+            <p>And it ſeems, the Offenders for the firſt and ſecond
+<pb n="5" facs="tcp:59260:4"/>Offence in that caſe, muſt not firſt be committed to Priſon, and afterward tried by an Jury, in order to Judgment, or final determination of the matter; But they muſt firſt be fined, and afterward impriſoned, if they do not pay down the Fine, which Fine for the firſt offence is not to exceed five pounds, or impriſon<g ref="char:EOLhyphen"/>ment without Bail or Mainprize, not exceeding three months for none payment thereof, and not exceeding ten pounds for the ſecond offence, or impriſonment for ſome time without Bail or Mainprize for non-pay<g ref="char:EOLhyphen"/>ment thereof, not exceeding ſix months. 16. <hi>Car.</hi> 2. <hi>Regis fol.</hi> 27, 28.</p>
+            <p>Simply to meet upon the account of Religion, really to worſhip and ſerve the Lord, without any unlawful Act to be done or intended, is not an Offence againſt Law.</p>
+            <p>Is there any general Cuſtome, or Statute made di<g ref="char:EOLhyphen"/>rectly againſt the true ſpiritual ſervice and worſhip of God in the ſpirit, <hi>John</hi> 4.23, 24. If there be any gene<g ref="char:EOLhyphen"/>ral Cuſtome or Statute made directly againſt the true ſpiritual ſervice and worſhip of God in the ſpirit; Is not ſuch Cuſtome and Statute directly againſt the Law of God; And if there be any general Cuſtome, or Statute directly againſt the Law of God, Is not ſuch a Cuſtome and Statute void in it ſelf? ſeeing it is de<g ref="char:EOLhyphen"/>clared in the book called <hi>Doctor and Student,</hi> or grounds of the Law of the Land, That the ſecond ground of the Law of <hi>England</hi> is the Law of God,<note place="margin">Doct. and Stud. Cap. <hi>6.</hi>
+               </note> and alſo if any general Cuſtome were directly againſt the Law of God, or if any Statute were made directly a<g ref="char:EOLhyphen"/>gainſt it, the Cuſtom and Statute were void. <hi>Doct. &amp; Stud. cap.</hi> 6.</p>
+            <p>
+               <pb n="6" facs="tcp:59260:5"/>And the King hath been pleaſed to promiſe and declare a liberty to tender Conſceiences, and that no man ſhall be diſquieted, and called in Queſtion for differences of opinion in matters of Religion, which do not diſturbe the peace of the Kingdome, And have not all thoſe an intereſt in the Kings promiſes, who never yet forfeited the ſame, but are utterly and abſolutely againſt de<g ref="char:EOLhyphen"/>ſigning and contriving any Inſurrection, and the reme<g ref="char:EOLhyphen"/>dies provided by the act are againſt them (that have forfeited their intreſt in the Kings promiſes) who do at their meetings, contrive Inſurrections, Therefore the Innoſent ought not to be puniſhed by Inpriſonment or Baniſhment, &amp;c.</p>
+            <p>For the liberty of a man is a thing ſpecia<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y favoured by the comon Law of the Land, and therefore ſaith <hi>Dalton</hi> in his Iuſtice of peace,<note place="margin">
+                  <hi>Dalt.</hi> 406.</note> if any of the Kings Sub<g ref="char:EOLhyphen"/>jects ſhall Impriſon another without ſufficient warrant of him or of his Law, the party grieved may have his action, and ſhall recover damages againſt the other, and the King alſo ſhall have a fine of him, for Inpriſon<g ref="char:EOLhyphen"/>ment of another without offence of the Law is one of the Kings Royall prerogatives annexed to the Crown. See <hi>Dalt. I. P.</hi> 406.</p>
+            <p>And by the Statute of <hi>Magna. Charta</hi> (many times confirmed in Parliament) it is enacted that no freeman ſhall be taken and Impriſoned, or Diſſeized of his Free<g ref="char:EOLhyphen"/>hold, or Liberties, or free Cuſtoms, or be Outlawed, or Exiled,<note place="margin">Magna Charta cap. <hi>29.</hi>
+               </note> or any otherwiſe deſtroyed, or we ſhall not paſſe upon him, nor condemne him but by lawfull Iudgement of his Peers, or by the Law of the Land, we ſhall ſell to no man we ſhall deny, or defer to no man, either Iuſtice, or right. <hi>Mag.</hi> 29.</p>
+            <p>
+               <pb n="7" facs="tcp:59260:5"/>The Confirmation of the great Charters ſaith, that all Majors Sheriffes, Iuſtices and other Miniſters which under us have the Laws of the Land to guide them,<note place="margin">2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Edw.</hi> 1 <hi>cap.</hi> 1.</note> ſhall allow the ſaid Charters pleaded before them in Judgment in all points. 25. <hi>Edw.</hi> 1. <hi>c.</hi> 1.</p>
+            <p>And we will, that if any Judgment be given from henceforth contrary to the points of the Charters, by the Juſtices, or by any other our Miniſters that hold Plea before them againſt the Points of the Charters,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5 <hi>Edw.</hi> 1. <hi>cap.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> It ſhall be undone and holden for nought. See the <hi>Stat.</hi> 25. <hi>Edw.</hi> 1. <hi>cap.</hi> 2.</p>
+            <p>
+               <hi>A Confirmation of the great Charters, and a Repeal of thoſe Statutes that be made to the contrary.</hi>
+            </p>
+            <p>At the Parliament of our Lord the King, holden at <hi>Weſtminſter</hi> the firſt day of <hi>May,</hi> the two and fortieth Year of his Raign; It is aſſented and accorded, <hi>That the great Charter, and the Charter of the Forreſt, be holden and kept in all Points; And if any Statute be made to the contrary, That ſhall be holden for none. Stat.</hi> 42. <hi>Edw.</hi> 3. <hi>cap.</hi> 1.</p>
+            <p>
+               <hi>What Perſons are they that the late Act is made againſt?</hi>
+            </p>
+            <p>They are ſeditious Sectaries, and diſloyal Perſons, who under pretence of tender Conſciences do at their Meetings contrive Inſurrections. 16. <hi>Car.</hi> 2. <hi>Regis</hi> 25, 26.</p>
+            <p>To meet together under colour of Religious Exer<g ref="char:EOLhyphen"/>ciſe, and pretence of tenderneſs of Conſcience, to con<g ref="char:EOLhyphen"/>trive inſurrections, is a ſeditious Conventicle, and an unlawful Aſſembly; And thoſe are the perſons and meetings which the Act doth provide Remedies a<g ref="char:EOLhyphen"/>gainſt.</p>
+            <p>
+               <pb n="8" facs="tcp:59260:6"/>For firſt, the Title of the Act is to prevent and ſup<g ref="char:EOLhyphen"/>preſs ſeditious Conventicles. Secondly, the Remedies provided by the ſaid Act are againſt the growing and dangerous practiſes of ſeditious Sectaries, and diſloyal Perſons, who do at their meetings contrive Inſurrecti<g ref="char:EOLhyphen"/>ons, as aforeſaid, Thirdly, the Execution or Penalties of the Act are to be inflicted upon ſuch Perſons, and for preventing of the miſchiefs which may grow by ſuch ſeditious and tumultuous meetings under pre<g ref="char:EOLhyphen"/>tence of Religious Worſhip. 16. <hi>Car.</hi> 2. <hi>Regis fol.</hi> 25, 26, 54.</p>
+            <p>It ſeems, That for Perſons to aſſemble and meet together under pretence of tender Conſciences, to con<g ref="char:EOLhyphen"/>trive Inſurrections, is a ſeditious Conventicle, and un<g ref="char:EOLhyphen"/>lawful Aſſembly puniſhable by the ſaid Act.</p>
+            <p n="2">2. It ſeems, That for Perſons to the number of ſive, or above, <hi>&amp;c.</hi> to meet together under pretence of Religious Worſhip, to be miſchievous, ſeditious, and tumultuous, it is a ſeditious Conventicle, and unlawful Aſſembly, puniſhable by the late Act, as aforeſaid.</p>
+            <p>For it is Enacted by the Authority of Parliament, for better preventing of the miſchiefs which may grow by ſuch ſeditious and tumultuous meetings, under pretence of Religious Worſhip, <hi>That the Lieutenants, Deputy Lieutenants, Commiſſioned Officers of the Mili<g ref="char:EOLhyphen"/>tia, Souldiers and Sheriffs,</hi> &amp;c. <hi>by Certificate made to them reſpectively, under the hand and ſeal of a Juſtice of Peace, or chief Magiſtrate, of his particular informati<g ref="char:EOLhyphen"/>on, or knowledge of ſuch unlawful meetings or Conven<g ref="char:EOLhyphen"/>ticles, held, or to be held in their reſpective Counties or places; And that he (with ſuch Aſſiſtance as he can get together is not able to ſuppreſs or diſsolve the ſame) ſhall
+<pb n="9" facs="tcp:59260:6"/>and may, and are required, to repair (with the Juſtice of Peace, or chief Magiſtrates) to the place where they are ſo held, and by the beſt means they can to diſſolbe and diſſipate, or prevent ſuch unlawful meetings.</hi> 16. Car. 2. Regis fol. 34, 35.</p>
+            <p>Is it not plain and clear by the ſaid Act, That the meetings which are to be diſſolved and diſſipated, or prevented as aforeſaid, are ſeditious and tumultuous meetings? And is it not as plain, That thoſe ſeditious and tumultuous meetings, are ſuch meetings as are ſe<g ref="char:EOLhyphen"/>ditious Conventicles and unlawful Aſſemblies, which the Act provides remedies againſt and alſo Penalties for the preventing of the miſchiefs that may grow by ſuch ſeditious and tumultuous meetings, under pre<g ref="char:EOLhyphen"/>tence of Religion, at which they do contrive Inſurre<g ref="char:EOLhyphen"/>ctions, as aforeſaid.</p>
+            <p>Are not thoſe meetings only accounted unlawful by the ſaid Act, as are ſeditious and tumultuous meet<g ref="char:EOLhyphen"/>ings? And are not thoſe the ſeditious meetings at which there is Inſurrection contrived under pretence of Religious Worſhip? And is it not plain that the meetings of the People of God, reproachfully called <hi>Quakers,</hi> which are, only for the Service and Worſhip of God, are not unlawful Aſſemblies, nor ſeditious Conventicles, becauſe they are peaceable, and not ſe<g ref="char:EOLhyphen"/>ditious and tumultuous meetings; for they neither meet to contrive Inſurrection, nor with force and vio<g ref="char:EOLhyphen"/>lence to the terror of the People, nor to do any un<g ref="char:EOLhyphen"/>lawful Act with violence or force, as daily experience doth manifeſt: And ought not therefore the Innocent People of God (called <hi>Quakers</hi>) to be freed and clear<g ref="char:EOLhyphen"/>ly acquitted from the force of the Penalties?</p>
+            <p>
+               <pb n="10" facs="tcp:59260:7"/>There muſt be Sedition and Tumults, or the contri<g ref="char:EOLhyphen"/>ving of ſome Inſurrection, intended or acted under co<g ref="char:EOLhyphen"/>lour of Religious Worſhip (it ſeems) to make a ſediti<g ref="char:EOLhyphen"/>ous Conventicle, and unlawful Aſſembly or meeting puniſhable by the late Act. And if there be ſedition, muſt it not be either in Words or Actions, or both; and if there be no ſedition, nor contriving of Inſurrecti<g ref="char:EOLhyphen"/>on at meetings under colour of Religious Worſhip and pretence of tenderneſs of Conſcience, how can thoſe meetings be juſtly puniſhed as ſeditious and tumultu<g ref="char:EOLhyphen"/>ous meetings? Seeing the Remedies and Penalties of the Act are provided againſt the growing and dange<g ref="char:EOLhyphen"/>rous practiſes of Seditious Sectaries, and diſloyal Per<g ref="char:EOLhyphen"/>ſons, who under pretence of tender Conſciences, do at their meetings contrive Inſurrections, as late experience hath ſhewed: And to prevent the miſchiefs which may grow by ſuch ſeditious and tumultuous meetings under Religious pretences. 16. <hi>Car.</hi> 2. <hi>Regis,</hi> fol. 25, 26, 34, 35.</p>
+            <div type="part">
+               <head>Concerning Sedition, and wicked Sectaries, <hi>&amp;c.</hi>
+               </head>
+               <p>Doth it not appear by a Statute made in the three and twentieth year of the Raign of Queen <hi>Elizabeth,</hi>
+                  <note place="margin">23 <hi>Eliz c.</hi> 1</note> Entituled, an <hi>Act for retaining the Queens Subjects in their due obedience, who are ſeditious or wicked Secta<g ref="char:EOLhyphen"/>ries, and diſloyal Perſons.</hi>
+               </p>
+               <p n="1">1. Are they not ſuch Perſons as pretend to have Power from the See of <hi>Rome</hi> to abſolve People? 23. <hi>Eliz.</hi> 1.</p>
+               <p n="2">2. Are they not ſuch Perſons who ſhall or may per<g ref="char:EOLhyphen"/>ſwade the Kings Subjects from their natural obedi<g ref="char:EOLhyphen"/>ence
+<pb n="11" facs="tcp:59260:7"/>to his Majeſty, and from the Proteſtant Religion eſtabliſhed to the Romiſh Religion. 23. <hi>Elizabeth cap.</hi> 1.</p>
+               <p n="3">3. Are they not ſuch as move the Kings Subjects to promiſe any obedience to any pretended authority of the See of <hi>Rome.</hi>
+               </p>
+               <p n="4">4. Are they not ſuch alſo as are willing to be with<g ref="char:EOLhyphen"/>drawn from the Church of <hi>England</hi> to the Church of <hi>Rome?</hi>
+               </p>
+               <p n="5">5. Are they not ſuch as brought, or ſhall bring in and put in Execution Bulls, Writings and Inſtruments, and other ſuperſtitious things from the See of <hi>Rome;</hi> And in reſpect thereof did withdraw great numbers from their due obedience to her Majeſties Laws eſtabliſh<g ref="char:EOLhyphen"/>ed for the ſervice of God; And did alſo withdraw di<g ref="char:EOLhyphen"/>vers of the Queens Subjects from their natural obedi<g ref="char:EOLhyphen"/>ence to her Majeſty to obey the uſurped authority of <hi>Rome.</hi> 23. <hi>Eliz. cap.</hi> I.</p>
+               <p>Are not thoſe ſeditious Perſons, and ſeditious Acti<g ref="char:EOLhyphen"/>ons, for any to withdraw the Kings Subjects from the Common Prayer Book, and that form of Religion and Worſhip as it is now eſtabliſhed, to reconcile them to the Romiſh Religion, and as aforeſaid? And is not that to withdraw the Kings Subjects from their natural o<g ref="char:EOLhyphen"/>bedience to his Majeſty, <hi>&amp;c.</hi>
+               </p>
+               <p>But the Innocent People of God reproachfully cal<g ref="char:EOLhyphen"/>led Quakers, are free from ſuch ſeditious principles and practiſes, and how can their Godly Meetings be ſaid to be ſeditious Conventicles and unlawful aſſem<g ref="char:EOLhyphen"/>blies.</p>
+               <p>And the Statute made in the five and thirtieth year of the Raign of Queen <hi>Elizabeth,</hi>
+                  <note place="margin">25 <hi>Eliz. c.</hi> 1.</note> againſt ſeditious Con<g ref="char:EOLhyphen"/>venticles,
+<pb n="12" facs="tcp:59260:8"/>was for the preventing and avoiding of ſuch great inconveniences and perils as migh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ppen, and grow by the wicked and dangerous practi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of ſedi<g ref="char:EOLhyphen"/>tious Sectaries, and diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyal perſons; And is it not plaine by the Statute aforeſaid (<hi>viz.</hi> the 23. <hi>El<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 1.) who are thoſe ſeditious or wicked Sectaries, and diſ<g ref="char:EOLhyphen"/>loyal Perſons? And is not plain that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uakers ſo called are not a People of ſuch wicked principles and ſeditious Actions as aforeſaid.</p>
+            </div>
+            <div type="part">
+               <head>Concerning unlawful Aſſemblies, <hi>&amp;c.</hi>
+               </head>
+               <p>Seditious and Tumultuous Meetings are declared by the late Act to be unlawful Aſſemblies, ſo that they are ſeditious and tumultuous meetings that are to be diſſolved and diſſipated or prevented, as by the Statute appeareth. See 16. <hi>Car.</hi> 2. <hi>Regis fol.</hi> 34, 35.</p>
+               <p>And how doth it appear that the godly meetings of the Quakers are ſeditious and tumultuous meetings? Muſt it not appear by Words and Actions? and if there be no ſuch things apparent, are they not innocent and free from the ſame, as aforeſaid?</p>
+               <p>Saith <hi>Dalton</hi> in his <hi>Juſtice of Peace,</hi> An unlawful Aſſembly, &amp;c. Is where three perſons or more ſhall gather together, come or meet in one place, to do ſome unlawful Act with violence. See <hi>Dalt. I. P. fol.</hi> 277.</p>
+               <p>And is it not plain and evident that the innocent Quakers do not meet to do any unlawful Act with violence? How then are their meetings ſaid to be un<g ref="char:EOLhyphen"/>lawful meetings?</p>
+               <p>
+                  <pb n="13" facs="tcp:59260:8"/>Saith <hi>Dalton,</hi> when three Perſons and more ſhall come and Aſſemble themſelves together, to the intent to do any unlawful Act with force or violence againſt the Perſon of another, his Poſſeſſion, or Goods,<note place="margin">Dalt. 278.</note> as to Kill, Beat, or otherwiſe to hurt a man, to pull down a Houſe, Wall, Pale, Hedge or Ditch, wrongfully to enter upon, or into another mans Poſſeſſion, Houſe or Land, &amp;c. Or to cut or take away Corn, Graſs, Wood, or other goods wrongfully, or to Hunt unlawfully in any Park or Warren, or to do any other unlawful Act (with force or violence) againſt the Peace, or to the manifeſt terror of the People, if they only meet to ſuch a purpoſe or intent, This is an unlawful Aſſembly. <hi>Dalt. I. P. fol.</hi> 278.</p>
+               <p>But it is as clear as the Sun at noon day, That the innocent People of God (called Quakers) do not meet together to ſuch a purpoſe or intent, to do any ſuch unlawful actions, with force or violence, nor to the manifeſt terror of the People: Therefore how can their godly meetings be truly ſaid to be unlawful Aſ<g ref="char:EOLhyphen"/>ſemblies?</p>
+               <p n="1">1. If Perſons Aſſemble together to the intent to do any unlawful Act, with force or violence againſt the Perſon of another, his Poſſeſſion or Goods as aforeſaid, or to do any other unlawful act (with force or violence) againſt the Peace, or to the manifeſt terror of the Peo<g ref="char:EOLhyphen"/>ple, if they only meet to ſuch a purpoſe or intent, al<g ref="char:EOLhyphen"/>though they ſhall after depart of their own accord, without doing any ſuch thing, yet this is an unlawful Aſſembly. <hi>Dalt. I. P.</hi> 278.</p>
+               <p n="2">2. If after their meeting, They ſhall ride, go, or move forward toward the execution of any ſuch act
+<pb n="14" facs="tcp:59260:9"/>(wether they put their intended purpoſe in execution or not) This is a Rout. <hi>Dalt.</hi> 278.</p>
+               <p n="3">3. And if they execute any ſuch thing indeed, then it is a Riot. <hi>Dalt.</hi> 278.</p>
+               <p>And ſaith he, Mr. <hi>Finch</hi> deſcribeth them ſhortly thus, <hi>fi. libro</hi> 2.</p>
+               <p>An unlawful Aſſembly is when Perſons ſhall Aſſem<g ref="char:EOLhyphen"/>ble to do any unlawful Act. (So that the unlawfulneſs of the act about which they aſſemble to do, is that it ſeems which makes their meeting together to be an unlawful Aſſembly, and to be an Offence againſt Law.) A Rout is when they ſet forward to do it. And a Riot is when they do it indeed. <hi>Dalt.</hi> 278.</p>
+               <p>Now in Riots, Routs, and unlawful Aſſemblies, theſe four circumſtances are to be conſidered. Firſt, The number of the perſons Aſſembled. 2. The intent and purpoſe of the meeting. 3. The lawfulneſs, or un<g ref="char:EOLhyphen"/>lawfulneſs of the Act. 4. The manner and circumſtance of doing it.</p>
+               <p>Firſt,<note place="margin">The num<g ref="char:EOLhyphen"/>ber.</note> For the number, there muſt neceſſarily be three perſons at the leaſt, ſo gathered together (to the intent to do ſome unlawful act with force or vio<g ref="char:EOLhyphen"/>lence, againſt the Peace, or Perſon of another, his Poſſeſſion or Goods, or to the manifeſt terror of the People as aforeſaid,) For elſe, it can be no Riot,<note place="margin">1 <hi>M.</hi> 12. 1 <hi>Eliz.</hi>
+17.</note> Rout, or unlawful Aſſembly (ſaith <hi>Dalton</hi>) within the meaning of theſe Statutes. <hi>Dalt.</hi> 278.</p>
+               <p>For ſaith he, an Aſſemby of an hundred Perſons, or more (yea though they be in Armor) yet if it be not in terror or affright of the People, and were aſſembled without any intent to break the Peace, It is not pro<g ref="char:EOLhyphen"/>hibited by theſe Statutes, nor unlawful. <hi>Dalt. I. P.</hi> 279.</p>
+               <p n="2">
+                  <pb n="15" facs="tcp:59260:9"/>2. For the intent.<note place="margin">The intent.</note> It ſeemeth it can be no Riot, Rout, or unlawful Aſſembly, Except there be an intent pre<g ref="char:EOLhyphen"/>cedent to do ſome unlawful Act, and with violence or force. See <hi>Dalt. J. P.</hi> fol. 279. <hi>Cromp.</hi> 6. <hi>P. R.</hi> 25.</p>
+               <p n="3">3. As for the lawfulneſs of the act. Every man may Aſſemble company to aid him in his Houſe,<note place="margin">Lawfulneſs of the Act.</note> againſt
+in<g ref="char:EOLhyphen"/>jury or violence; And every man in peaceable manner may aſſemble a meet company, (and may come) to do any lawful thing. <hi>Dalt. J. P.</hi> 280.</p>
+               <p n="4">4. As there muſt neceſſarily be three Perſons at the leaſt aſſembled together to make a Riot, Rout,<note place="margin">The manner and
+cir<g ref="char:EOLhyphen"/>cumſtances.</note> or un<g ref="char:EOLhyphen"/>lawful aſſembly, ſo their being together, and their de<g ref="char:EOLhyphen"/>meanour muſt be ſuch, as ſhall or may breed ſome ap<g ref="char:EOLhyphen"/>parent diſturbance of the Peace; either by threatning ſpeeches, turbulent geſture, ſhew of Armour, or actual force or violence (to the terror and fearing of the peaceabler ſort of people; or to the emboldenimg and ſtirring up of ſuch as are buſie headed, and of evil diſ<g ref="char:EOLhyphen"/>poſition, by ſuch fact) or elſe it can be no unlawful aſ<g ref="char:EOLhyphen"/>ſembly, <hi>&amp;c.</hi> See <hi>Dalt. J. P.</hi> fol. 281.</p>
+               <p>And doth, or may it not clearly appear, the premi<g ref="char:EOLhyphen"/>ſes and circumſtances being truely and duely conſider<g ref="char:EOLhyphen"/>ed, That the peaceable and godly meetings of the in<g ref="char:EOLhyphen"/>nocent people of God reproachfully called Quakers, truly and really to ſerve and worſhip the Lord, with<g ref="char:EOLhyphen"/>out any intent, or purpoſe to do any unlawful act with force or violence as aforeſaid, are no unlawful Aſſem<g ref="char:EOLhyphen"/>blies; Becauſe their being together, and their de<g ref="char:EOLhyphen"/>meanour is ſuch, as doth not breed any apparent diſ<g ref="char:EOLhyphen"/>turbance of the Peace, neither by threatning ſpeeches, turbulent geſture, nor ſhew of armour, nor actual force or violence, nor to the terror and fearing of the peace<g ref="char:EOLhyphen"/>abler ſort of people, who do neither meet in terror or
+<pb n="16" facs="tcp:59260:10"/>affright of the people, nor with any intent to break the Peace, by any unlawful act with force or violence.</p>
+               <p>If any Riot, Aſſembly, or Rout of People againſt the Law be made in any part of the Realme, the Juſtices of the Peace, three or two of them at the leaſt, and the Sheriff or Under-Sheriff of the Shire, where ſuch Riot, Aſſembly, or Rout ſhall be made, ſhall come with the Power of the County (if need be) to Arreſt them, and ſhall Arreſt them; And the ſame Juſtices; Sheriff or Under-Sheriffs have power to Record, that which they ſhall find in their preſence againſt the Law, and the ſame. Offenders ſhall be Convict by the Record of the ſame Juſtices, Sheriff or Under-Sheriff, in manner and form as it is contained in the Statute of Forcible En<g ref="char:EOLhyphen"/>tries. See <hi>Pultons</hi> abſtract and Statute, 17: <hi>Rich.</hi> 2.8. Stat: 13. <hi>Hen.</hi> 4.7. And ſee <hi>Forcible Entry.</hi> 2.</p>
+               <p>And in <hi>Forcible Entrie,</hi> 2. <hi>Pult.</hi> ſaith, If a Juſtice of Peace of the County, or Major, Bayliffe, Sheriff, Ju<g ref="char:EOLhyphen"/>ſtices or Juſtice of Peace of the City, do fine any that made ſuch Forcible Entrie, <hi>&amp;c.</hi> he ſhall take the Of<g ref="char:EOLhyphen"/>fenders, and commit them to the next Goal, and there to remain, <hi>&amp;c.</hi> And whether the Parties which made ſuch Entries be preſent or gone, at the coming of the Juſtice, the ſaid Juſtice, Major, <hi>&amp;c.</hi> ſhall in ſome good Town, or convenient place, near unto the place where ſuch force was made, enquire by a ſufficient Jury of the ſame County, City, <hi>&amp;c.</hi> of them which made ſuch for<g ref="char:EOLhyphen"/>cible Entries, and if it be found before them, That any have made Entry in form aforeſaid, The ſaid Juſtices, Major, <hi>&amp;c.</hi> ſhall reſeiſe the ſaid Lands, and put the party in poſſeſſion, which in ſuch ſort was put out. <hi>Pult.</hi> 132. <hi>Stat.</hi> 8. <hi>Hen.</hi> 6.9.</p>
+               <p>So that a Riot, Rout, or unlawful aſſembly is to be
+<pb n="17" facs="tcp:59260:10"/>enquired of and found by a Jury. For if any ſuch Of<g ref="char:EOLhyphen"/>fence be committed within this Realm, the Sheriff ha<g ref="char:EOLhyphen"/>ving a precept directed to him, ſhall return four and twenty perſons dwelling within the Shire, where ſuch aſſembly or fact was committed, whereof every of them ſhall have Lands and Tenements within the ſame ſhire to the yearly value of twenty ſhillings Char<g ref="char:EOLhyphen"/>ter Land, or Free-hold, or twenty ſix ſhillings eight pence Copy-hold, or of both above all charges, for to enquire of the ſaid Riot, Rout, or unlawful Aſſembly, <hi>&amp;c.</hi> See the Stat. 19. <hi>Hen.</hi> 7.13. <hi>Pult. Abſtract.</hi>
+               </p>
+               <p>
+                  <hi>Arreſt and Impriſonment.</hi>
+               </p>
+               <p>An Arreſt is the firſt apprehending and reſtraining of a mans perſon, depriving it of its own Will and Liber<g ref="char:EOLhyphen"/>ty,<note place="margin">Dalt. 405. Shep. 171.</note> and may be called the beginning of impriſonment. <hi>Dalt. J. P.</hi> 405. <hi>Shep. Juſt. P. cap.</hi> 6. <hi>ſect.</hi> 1. <hi>p.</hi> 171.</p>
+               <p>Impriſonment is where a man is Arreſted againſt his Will,<note place="margin">Dalt. 405. Shep 171.</note> or is reſtrained of his Liberty by putting him into the Goal, Cage or Stocks, or into ſome Houſe, or other<g ref="char:EOLhyphen"/>wiſe by keeping him in the high ſtreet, or open field, ſo as he cannot freely go at liberty when and where he would. <hi>Dalt. J. P.</hi> 405.</p>
+               <p>If the Conſtable, or other Officer (upon a Warrant received from a Juſtice of Peace) ſhall come unto the party, or require, or charge, or command him to go, or come before the Juſtice, <hi>&amp;c.</hi> This is no Arreſt or Impriſonment. And upon a Warrant for the Peace; the Officer ought firſt to require the party to go before the Juſtice before he may Arreſt him. See <hi>Dalt.</hi> 405.</p>
+               <p>But (ſaith he) this Arreſt (being in Execution of the commandment of ſome Court, or of ſome Officer of Juſtice) is expreſt in their Writs by theſe words or the like <hi>Capias Attachias,</hi> &amp;c. To Attach, Arreſt, Take,
+<pb n="18" facs="tcp:59260:11"/>Bring, or Convey, or cauſe to be Attached, Arreſted; <hi>&amp;c.</hi> All which words do imply the taking and laying hold of the perſons. <hi>Dalt. J. P. fol.</hi> 405, 406.</p>
+               <p>Is not the old Law of the Land very tender of the Liberty of a man, yea and of all men of what eſtate and condition ſoever they be, without reſpect of Per<g ref="char:EOLhyphen"/>ſons (or differences of Opinions in matters of Religion, Faith and Salvation) ſeeing it takes care and provides, That no man be impriſoned or deſtroyed in his Liber<g ref="char:EOLhyphen"/>ty, Perſon or Eſtate, without being brought in to an<g ref="char:EOLhyphen"/>ſwer (or trial) by due courſe of Law; and if men be impriſoned of deſtroyed in their Liberties, Perſons or Eſtates, without the Verdict of twelve men, or without being brought in to anſwer (or Tryal) by due Proceſs of Law, are they not deſtroyed contrary to <hi>Magna Charta,</hi> and the good old Law of the Land. For by a Statute made in the eight and twentieth year of the Raign of King <hi>Edward</hi> the third, it is amongſt other things Enacted, That no man of what Eſtate or condi<g ref="char:EOLhyphen"/>tion ſoever he be, ſhall be put out of his Lands or Te<g ref="char:EOLhyphen"/>nements, nor Taken, nor Impriſoned, nor Diſherited without being brought in to anſwer by due pro<g ref="char:EOLhyphen"/>ceſs of Law. <hi>Stat.</hi> 28. <hi>Edw.</hi> 3. <hi>c.</hi> 3.</p>
+               <p>And by another Statute made in the forty ſecond year of the Raign of King <hi>Edward</hi> the third, It is En<g ref="char:EOLhyphen"/>acted, <hi>That no man be put to anſwer without preſent<g ref="char:EOLhyphen"/>ment before Juſtices, or matter of Record, or by due pro<g ref="char:EOLhyphen"/>ceſs, or by Writ Original according to the old Law of the Land, and if any thing be done to the contrary, it ſhall be void in Law, and holden for error.</hi> Stat. 42. Edw. 3. <hi>cap.</hi> 3.</p>
+               <p>Firſt, doth it not appear by the Statute, That no man is to be impriſoned without being brought in to anſwer
+<pb n="19" facs="tcp:59260:11"/>(or Tryal) by due proceſſe of Law. (28. <hi>Edw.</hi> 3.3.) And ſecondly, that no man that is impriſoned, is to be put to anſwer without preſentment before Juſtices, or matter of Record, or by due Proceſſe, or by Writ O<g ref="char:EOLhyphen"/>riginal according to the old Law of the Land. And thirdly, That if any thing be done to the contrary, It ſhall be void in Law, and holden for error. <hi>Stat.</hi> 42. <hi>Edw.</hi> 3.3.</p>
+               <p>Alſo (ſaith <hi>Dalton</hi>) <hi>The Liberty of a man is a thing ſpecially favoured by the common Law of the Land, and by the Statute of</hi> Magna Charta, <hi>made</hi> 9. <hi>Hen.</hi> 3.29. No Freeman ſhall be Taken, or Impriſoned, or Diſ<g ref="char:EOLhyphen"/>ſeiſed of his Freehold, or Liberties, or free Cuſtoms, or be Outlawed, or Exiled, or otherwiſe deſtroyed; but by the lawful Judgement of his equals, upon his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>viction for ſome offence, by the Verdict of a Jury of twelve good and lawful men, or by the Law of the Land. See the Petition <hi>An.</hi> 3. <hi>Car. Regis.</hi> And <hi>Stat.</hi> 5. <hi>Edw.</hi> 3. <hi>cap.</hi> 9. <hi>Dalt. J. P.</hi> 406.</p>
+               <p>And by this Statute of <hi>Magna Charta</hi> (ſaith <hi>Dalton</hi>) every Arreſt or Impriſonment, and every Oppreſſion againſt the Law of the Land is forbidden; and if any Judge, Officer, or other perſon againſt the Law, ſhall uſurp any Juriſdiction, and by colour thereof ſhall Arreſt, Impriſon, or Oppreſſe any man, it is puniſhable by the Statute. See <hi>Dalt. J. P.</hi> fol. 406. <hi>Co.</hi> 10.75.</p>
+               <p>This grand Charter is a declaration of the antient common Law. <hi>Co.</hi> 10.48. And the Statute of <hi>Magna Charta,</hi> and <hi>Charta de Forreſta</hi> for their excellency have ſince been confirmed by the Authority of above thirty ſeveral Parliaments. See <hi>Cooks</hi> Preface to the eighth Report, and <hi>Dalt. J. P. fol.</hi> 406.</p>
+               <p>Note that all Juriſdiction (ſaith he) ought to be ei<g ref="char:EOLhyphen"/>ther
+<pb n="20" facs="tcp:59260:12"/>by Charter, or by preſcription. See <hi>Co.</hi> 11.99. and <hi>Dalt,</hi> 406.</p>
+               <p>Alſo by the Statutes of 25. <hi>Edw.</hi> 3. <hi>cap.</hi> 4.28. <hi>Edw.</hi> 3.3. and 42. <hi>Edw.</hi> 3. <hi>cap.</hi> 3. No perſon ſhall be taken or Impriſoned, nor put to anſwer unleſs it be by Indict<g ref="char:EOLhyphen"/>ment or Preſentment of a Jury before Juſtices, or by matter of Record, or by due Proceſſe made by Writ Original at the Common Law.</p>
+               <p>Saith he, A Commiſſon to Arreſt or Take a man, (and his goods) was holden to be againſt Law, for that this ought to be either upon Indictment, or ſuite of the partie, or other due proceſſe of Law, Saith <hi>Dal<g ref="char:EOLhyphen"/>ton</hi> 407 Br. Comiſſ. 15.16. and Faux. Impriſ. 9. and Indictment 38.42. All. 5.12.42. Ed. 3.9.<hi>Co.</hi> 5.64.</p>
+               <p>And ſo note (ſaith <hi>Dalton</hi>) That no man ſhall be Arreſted for Debt; Detinue, Treſpaſſe, or other cauſe of Action, but onely by vertue of a preceptor Com<g ref="char:EOLhyphen"/>andment out of ſome court of Record, <hi>Dalt. I. P.</hi> fol. 407. Neither ſhall any man Comit Another to Priſon Except he be a Judge of Record. <hi>Cooke</hi> 10.103. <hi>Dalt.</hi> 407.</p>
+               <p>But yet for Miſdemeanors done againſt the Kings peace, as for Treaſon, Fellony, <hi>&amp;c.</hi> The Offendors as well by the Comon Law, as by diverſe Statutes may be Arreſted and Impriſoned by the Officers of Juſtice <hi>Dalt.</hi> 407. And yet for the Arreſting of the body of a man in ſuch caſes, There muſt be ſome juſt cauſe, &amp;c. ſaith <hi>Dalton. Dalt. I. P.</hi> fol. 407.</p>
+               <p>The Manner of Comitment of ſuch Offendors. When any perſon ſhall be brought before a Juſtice of peace for Murder, Manſlaughter, or any other Fellony (wherewith the Juſtice of Peace may deale,) or for Suſpition thereof before the Juſtice ſhall Comit or
+<pb n="21" facs="tcp:59260:12"/>ſend ſuch Offenders to Priſon (ſaith <hi>Dalton</hi>) he ſhall take Firſt, the Examination of ſuch Offenders.</p>
+               <p n="2">2. The Information of ſuch as bring him, <hi>viz.</hi> He ſhal take their Examination, and Information of the Fact, and Circumſtances thereof, and ſo much thereof, as ſhall be material to prove the fact, ſhall be put in wri<g ref="char:EOLhyphen"/>ting within two days after the ſaid Examination. 3. The ſame Juſtice of Peace ſhall binde all ſuch by Recog<g ref="char:EOLhyphen"/>niſance, as do declare any thing Materiall to prove the fact, to Appeare at the next generall Goale delivery (to be holden where the Tryall of the ſaid fact ſhall bee) Then and there to give in Evidence againſt ſuch Offendors. <hi>Dalt.</hi> 365.</p>
+               <p n="4">4. And then the ſame Juſtice ſhall make his Mittimus to Carry the Offendor to the Goale. 5. And the ſaid Juſtice or Juſtices of Peace ſhall Certifie at the next generall Goale delivery ſuch Examination, Infor<g ref="char:EOLhyphen"/>mation and Recogniſance. See the Stat. 1. &amp; 2. <hi>Ph.</hi> &amp; <hi>Ma.</hi> 13. <hi>Dalt. I. P.</hi> fol. 395.</p>
+               <p>
+                  <hi>No man is to be Attached by Any Accuſation nor Forejudged of life or Limb, &amp;c. againſt the Forme of the Charter, and the Law of the Land.</hi>
+               </p>
+               <p>For by A Statute made in the fifth year of the Raign of King Edward the Third, It is Enacted,<note place="margin">5. Edw.3.</note> That no man ſhall be Attached by any Accuſation, nor Forejudged of Life or Limb, nor his Lands, Tenements, goods nor Ghattells Seized into the Kings hand againſt the Forme of the Charter, and the Law of the Land, ſee the Stat. 5. <hi>Ed.</hi> 3.</p>
+               <p>And by Magna Charta many times confirmed in Parliament, It is Enacted, That no Freeman be Taken and Impriſoned, or Diſſeized of his Freehold, or Li<g ref="char:EOLhyphen"/>berties, or Free Cuſtoms, or be Outlawed, or Exiled,
+<pb n="22" facs="tcp:59260:13"/>or otherwiſe Diſtroyed, but by Lawfull Judgment of his Peers, or by the Law of the Land, we ſhall ſell to no man, we ſhall deny or deferre to no man either Juſtice or Right. 9. <hi>Hen.</hi> 3.29.<note place="margin">Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k <hi>upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Mag. cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>fol</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,
+&amp;c.</note>
+               </p>
+               <p>And <hi>Cook</hi> upon <hi>Magna Charta</hi> ſaith, That upon this Chapter, as out of a Root many fruitful Branches of the Law of <hi>England</hi> have ſprung. It containeth nine ſeveral branches.</p>
+               <p>Firſt, that no man be taken and Impriſoned but by the Law of the Land, that is to ſay, Common Law, Sta<g ref="char:EOLhyphen"/>tute Law, or Cuſtoms of <hi>England.</hi>
+               </p>
+               <p n="2">2. No man ſhall be diſſeized, <hi>viz.</hi> put out of his Freehold, that is, Land, Livelihood, or Liberties, ſuch as belong to him by his Free Birth-right, unleſſe it be by the lawful Judgement and Verdict of his Equals, by due courſe and Proceſſe of Law.</p>
+               <p n="3">3. No man ſhall be Outlawed, or put off the Law, that is, deprived of the benefit of the Law, unleſs he be Outlawed by the Law of the Land.</p>
+               <p n="4">4. No man ſhall be Exiled or Baniſhed, but by the Verdict of his Equals, or according to the Law of the Land.</p>
+               <p n="5">5. No man ſhall be deſtroyed, <hi>&amp;c.</hi> unleſs by Ver<g ref="char:EOLhyphen"/>dict, and according to the Law of the Land.</p>
+               <p n="6">6. No man ſhall be condemned, but by the Judge<g ref="char:EOLhyphen"/>ment of his Equals, or according to the Law of the land.</p>
+               <p n="7">7. We ſhall ſell to no man Juſtice or Right.</p>
+               <p n="8">8. We ſhall deny no man Juſtice or Right.</p>
+               <p n="9">9. And ninthly, we ſhall defer no man Juſtice or Right.</p>
+               <p>And as it is Enacted, That no man of what Eſtate and condition ſoever he be,<note place="margin">28 Edw. 3. <hi>cap</hi> 3.</note> ſhall be taken or
+Impriſon<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> without being brought in to anſwer by due
+<pb n="23" facs="tcp:59260:13"/>Proceſſe of Law; So likewiſe no man that is impriſon<g ref="char:EOLhyphen"/>ed is to be put to anſwer without Preſentment, or mat<g ref="char:EOLhyphen"/>ter of Record, or by due Proceſſe made by Writ Ori<g ref="char:EOLhyphen"/>ginal according to the old Law of the land. And more<g ref="char:EOLhyphen"/>over it is Enacted, That if any thing be done to the contrary, it ſhall be void in Law, and holden for error, as by the Statute appeareth. See <hi>Stat.</hi> 28. <hi>Edw.</hi> 3. <hi>c.</hi> 3. and <hi>Stat.</hi> 42. <hi>Ed.</hi> 3. <hi>c.</hi> 3.</p>
+               <p>Are not they who are firſt Condemned, and Fined before they be impriſoned, and after they be condemn<g ref="char:EOLhyphen"/>ed and fined without the Vedict of their Equals, are committed to priſon without Baile or Main prize, are they not committed to Priſon without being brought in to anſwer or Trial? And if they be committed to Priſon without being brought in to anſwer by due Proceſſe of Law, are they not committed contrary to the form of the Charter and Statutes aforeſaid? And is it not void in Law? ſeeing that no man is to be ta<g ref="char:EOLhyphen"/>ken and impriſoned without being brought in to an<g ref="char:EOLhyphen"/>ſwer by due Proceſſe of Law. And that no man that is taken and impriſoned is to be brought in to anſwer without Preſentment or Indictment, or matter of Re<g ref="char:EOLhyphen"/>cord before Juſtices, or by due Proceſſe, or by Writ Original according to the old Law of the Land, and that if any thing be done to the contrary, it ſhall be void in Law and holden for error as aforeſaid. 28.<hi>Ed.</hi> 3.3. and 42. <hi>Ed.</hi> 3.3.</p>
+               <p>
+                  <hi>No man ſhall be condemned without Preſentment or Indictment of good and lawful people of the ſame neighbourhood where the fact is committed,</hi> &amp;c.</p>
+               <p>For the Law of the land provides and takes care that no perſon or perſons ſhall be condemned upon ſuggeſti<g ref="char:EOLhyphen"/>on, without lawful Preſentment or Indictment of his
+<pb n="24" facs="tcp:59260:14"/>good und lawful people of the ſame neighbour-hood, where ſuch deeds be done in due manner, or by Pro<g ref="char:EOLhyphen"/>ceſſe made by Writ Original at the Common Law, nor none ſhall be put out of his Franchiſe, nor out of his Freehold, unleſs he be duly brought in to anſwer, and forejudged of the ſame according to the courſe of the Law, and if any thing be done againſt the ſame, it ſhall be redreſſed and holden for none: See <hi>Stat.</hi> 25. <hi>Ed.</hi> 3. <hi>cap.</hi> 4. <hi>Stat.</hi> 5. <hi>Edw.</hi> 3.9. <hi>Stat.</hi> 28. <hi>Edw.</hi> 3.3. <hi>Stat.</hi>
+42. <hi>Edw.</hi> 3.3.</p>
+               <p>
+                  <hi>They which make falſe ſuggeſtions ſhall be puniſhed by impriſonment until they ſatisfie the party wronged, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Item,</hi> Though it be contained in the great Charter, That no man be taken, nor impriſoned, nor put out of his Freehold without Proceſſe of the Law, neverthe<g ref="char:EOLhyphen"/>leſſ divers people make falſe ſuggeſtion to the King; as well for malice as otherwiſe, whereof the King is of<g ref="char:EOLhyphen"/>ten grieved, and divers of the Realm put in damage a<g ref="char:EOLhyphen"/>gainſt the form of the ſame Charter. Wherefore it is ordained, <hi>That all they which make ſuch ſuggeſtions ſhall be ſent with the ſame ſuggeſtions before the Chancellor, or Treaſurer, and his grand Councel, and that they there find Surety to purſue their ſuggeſtions, and incur the ſame pain that the other ſhould have had, if he were at<g ref="char:EOLhyphen"/>tainted, in caſe that his ſuggeſtion be found evil, and that then proceſs of the Law be made againſt them without being taken and impriſoned againſt the form of the ſaid Charter and other Statutes:</hi> Stat. 37 Edw. 3.18. St. 9. Hen. 3.29. and 25 Edw. 3.4. St. 42. Ed. 3.3.</p>
+               <p>
+                  <hi>Item,</hi> As to the Article made of the laſt Parliament of thoſe that make grievous complaints to the King himſelf it is aſſented, That if he that maketh the com<g ref="char:EOLhyphen"/>plaint
+<pb n="25" facs="tcp:59260:14"/>cannot prove His intent againſt the defendant by the proceſſe limitted in the ſame Article, he ſhall be commited to Priſon, there to abide till he hath made agreement to the party of his damages, and of the ſlander that he hath ſuffered by ſuch occaſion; and after ſhall make Fine and Ranſom to the King, and the point contained in the ſame Article, That the Plaintiff ſhall incur the ſame pain, which the other ſhould have, if he were attainted, ſhall be out in caſe that his ſuggeſtion be found untrue. See the <hi>Stat.</hi> 38. <hi>Edw.</hi> 3. <hi>c.</hi> 9.<note place="margin">38 Ed. 3. cap 9.</note>
+               </p>
+               <p>
+                  <hi>All men are to have even Law and Execution of right, both rich and poor, without reſpect of Perſons.</hi>
+               </p>
+               <p>The Law of the land provides and takes care, that all men ſhall have even Law, and Execution of Right, both rich and poor, for by a Statute made in the raign of King <hi>Edward</hi> the third, the King hath declared, <hi>That he by his Oath is bound to maintain the Law of the Land.</hi> And perceiving that the Law of the Land was not well kept, and the execution of the ſame diſturbed many times by maintenance and procurement, as well in the Court as in the Country.</p>
+               <p>The King being (as he ſaid) greatly moved of Con<g ref="char:EOLhyphen"/>ſcience in this matter, and for this cauſe, deſiring as much for the pleaſure of God, and eaſe and quietneſs of his ſubjects, and for to ſave and keep his ſaid Oath.</p>
+               <p>By the conſent of his Councel and other wiſe men did ordain that all his Juſtices ſhould from thenceforth do even Law and Execution of Right to all his ſubjects rich and poor.</p>
+               <p>
+                  <hi>The Juſtices of both Benches, Aſſize,</hi> &amp;c. <hi>ſhall do right to all men, and take no Fee, but of the King.</hi>
+               </p>
+               <p>Firſt, We have commanded all our Juſtices, <hi>That
+<pb n="26" facs="tcp:59260:15"/>they ſhall from henceforth do equal Law,</hi>
+                  <note place="margin">20 Edw 3 cap. 1.</note> 
+                  <hi>and execution of right to all our ſubjects, rich and poor without having regard to any perſon, and without omitting to do right for any Letters, or Commandment, which may come to them from us, or from any other, or by any other cauſe.</hi> 20. Edw. 3. <hi>cap.</hi> 1.</p>
+               <p>And if that any Letters, Writs, or Commandments come to the Juſtices, or to others deputed to do Law and Right according to the uſage of the Realm, in diſ<g ref="char:EOLhyphen"/>turbance of the Law,<note place="margin">20 Edw 3</note> or of the Execution of the ſame, or of right to the Parties, The Juſtices and other afore<g ref="char:EOLhyphen"/>ſaid ſhall proceed and hold their Courts, and Proceſſes, where the Pleas and matters be depending before them, as if no ſuch Letters, Writs, or Commandments were come to them.</p>
+               <p>And they ſhall certifie Us, and our counſel of ſuch Commandments which be contrary to the Law as is aforeſaid.</p>
+               <p>
+                  <hi>And to the intent that our Juſtices ſhould do even Right to all people in the manner aforeſaid without more favour ſhewing to one then to another, We have ordained and cauſed our ſaid Juſtices to be ſworn, That they ſhall not from henceforth, as long as they ſhall be in the Office of Juſtice, take Fee, nor Robe of any man, but of our ſelf, And that they ſhall take no gift, nor Reward by them<g ref="char:EOLhyphen"/>ſelves, nor by other, privily nor apertly of any man that hath to do before them by any way, except meat and drink, and that of a ſmall value,</hi> &amp;c. <hi>And for this cauſe we increaſed the Fees of the ſame our Juſtices in ſuch manner as it ought reaſonably to ſuffice them.</hi> Stat. 2o. Ed. 3.1. St. 2, Ed. 3.8. St. 11. Rich. 2.10. Regiſt. f. 186.</p>
+               <p>See the Oath of the Juſtices being made <hi>Anno</hi> the 18. <hi>Edw.</hi> 3. wherein it is contained, <hi>That they ſhall
+<pb n="27" facs="tcp:59260:15"/>well and lawfully ſerve the King, and his people in the Office of Juſtice, and that they ſhall do equal Law, and execution of Right to all his ſubjects, rich and poor without having regard to any perſon; and that they deny to do no man common right by the Kings Letters, nor none other means, nor for none other cauſe; and in caſe any Letters come to them contrary to the Law, that they do nothing by ſuch Letters, but certifie the King thereof, and proceed to execute the Law notwithſtanding the ſame Letters. And in caſe they be from thenceforth found in default in any of the points aforeſaid, They ſhall be at the Kings Will of body, Lands, and Goods, thereof to be done as ſhall pleaſe him.</hi> See the Oath of the Juſtices (at large) being made <hi>Anno</hi> the 18. <hi>Edw.</hi> 3. and <hi>Anno Dom.</hi> 1344.</p>
+               <p>
+                  <hi>No Commandment under the Kings Seal ſhall diſturb or delay Juſtice.</hi>
+               </p>
+               <p>
+                  <hi>Item,</hi> it is Recorded and eſtabliſhed, <hi>That it ſhall not be commanded by the Great Seal, nor the little Seal,</hi>
+                  <note place="margin">2 Edw. 3. cap. 8.</note>
+                  <hi>to diſturb or delay common right, and though ſuch Com<g ref="char:EOLhyphen"/>mandments do come, the Juſtices ſhall not therefore leave to do Right in any point.</hi> Stat. 2. Ed. 3. St. 9. Hen. 3.29. St. 5. Ed. 3.9. and 14. Ed. 3.14.</p>
+               <p>None ſhall be attached or forejudged contrary to the great Charter and the Law of the land. <hi>Item,</hi>
+                  <note place="margin">9 Hen 3.29 2 Ed. 3.8 14 Ed. 3.14 28 Ed. 3.3.</note> It is enacted, That no man from henceforth ſhall be attached by any accuſation, nor forejudged of Life or Limb, nor his Lands, Tenements, Goods, not Chattels ſeized into the Kings hands againſt the form of the Charter, and the Law of the Land. Stat. 5. Ed. 3. cap. 9.</p>
+               <p>
+                  <hi>None ſhall be put to anſwer an Accuſation made to the King without Preſentment, or ſome matter of Re<g ref="char:EOLhyphen"/>cord,</hi> &amp;c.</p>
+               <p>
+                  <pb n="28" facs="tcp:59260:16"/>
+                  <hi>Item,</hi> At the Requeſt of the Commons by their Petiti<g ref="char:EOLhyphen"/>ons put forth in this Parliament to Eſchew the miſchiefs and damage done to divers of his Commons by falſe Ac<g ref="char:EOLhyphen"/>cuſers, which oftentimes have made their Accuſations more for revenge and ſingular benefit, than for the profit of the King, or of his people, which accuſed perſons ſome have been taken, and ſometimes cauſed to come before the Kings Counſel by Writ, and otherwiſe upon grievous pain against the Law. It is aſsented and accorded, for the good Governance of the Commons, That no man be put to anſwer without Preſentment before Juſtices, or matter of Record, or by due proceſſe made by Writ Ori<g ref="char:EOLhyphen"/>ginal according to the old Law of the Land. And if any thing from henceforth be done to the contrary, it ſhall be void in the Law, and holden for error. Stat. 42. Ed. 3. ca. 3. St. 25. Ed. 3.4. and 37. Ed. 3.18.</p>
+               <p>None ſhall be condemned without lawful Preſent<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi>
+               </p>
+               <p>Item, <hi>Whereas it is contained in the great Charter of the Franchiſes of</hi> England <hi>That none ſhall be impriſoned, nor put out of his Freehold, nor of his Franchiſes, nor free Cuſtoms, unleſs it be by the Law of the Land: It is Accorded, Aſsented and Eſtabliſhed, That from hence<g ref="char:EOLhyphen"/>forth none ſhall be taken by Petition, or ſuggeſtion made to our Lord the King, or to his Counſel, unleſs it be by Indictment or Preſentment of his good and lawful Peo<g ref="char:EOLhyphen"/>ple of the ſame neighbourhood, where ſuch deeds be done in due manner, or by Proceſſe made by Writ Original at the Common Law: Nor that none be put out of his Franchiſe, nor of his Freeholds , unleſs he be duly brought in to anſwer and forejudged of the ſame by the courſe of the Law: And if any thing be done againſt the ſame, it ſhall be redreſsed and holden for none:
+<pb n="29" facs="tcp:59260:16"/>Sat.</hi> 25. <hi>Edward</hi> 3 4. <hi>Stat</hi> 5. <hi>Edw</hi> 3.9. <hi>Stat.</hi> 28. <hi>Ed.</hi> 3.3. and <hi>Stat.</hi> 42. <hi>Edw.</hi> 3.3.</p>
+               <p>If the Law of England cannot be lawfully executed without a Jury,<note place="margin">Jur. p. 2, 3.</note> who are ſaid to be the true and Ordi<g ref="char:EOLhyphen"/>nary Judges of the land, whoſe verdict is the effectuall Judgment, (as its ſaid) whereby all men, are Judged by their Peers, as well for their lives as lands, &amp;c. if ſo, how careful ought Jurors to be, that they neither ignorantly nor wilfully deſtroy men in their lives, li<g ref="char:EOLhyphen"/>berties, or eſtates, who are ſo entruſted therewith upon tryalls, and ſo greatly Concerned in the ſame, And if men be Condemned or in many ſort deſtroyed; without the verdict or Judgment of a Jury, is the Law of <hi>England</hi> lawfully Executed upon them?</p>
+               <p>And Concerning Baniſhment, <hi>Cook</hi> upon the 29. Chapter of <hi>Magna Charta,</hi> ſaith, that by the Law of the land no man can be exiled or Baniſhed out of his native Countrie, but either by Authority of Parli<g ref="char:EOLhyphen"/>ament or incaſe of abjuration for fellony by the com<g ref="char:EOLhyphen"/>mon Law. <hi>Co.</hi> 2. <hi>part.</hi> Inſtitutes. <hi>fol.</hi> 47.</p>
+               <p>Then is it not evident and remains true, that no man ought to be Baniſhed (by the Law of <hi>England</hi>) out of his native Country for the Service and worſhip of God, (in the way and manner, appointed by the word and Spirit of God) becauſe it is not fellony to ſerve and worſhip the Lord, Neither is it Enacted, Ordained and declared by Authority of Parliament, That (ſuch and ſuch perſons or) any man ſhall be Baniſhed out of his native Country for the Service and worſhip of God.</p>
+               <p>If Judges take upon them to condemne and paſſe the Sentence of Tranſportation or Baniſhment upon others, for errour (as they Apprehend) about the manner of the worſhip of God, whilſt the Judges them<g ref="char:EOLhyphen"/>ſelves
+<pb n="30" facs="tcp:59260:17"/>(acording to their owne confeſſion in evidence againſt themſelves) do daily erre and go aſtray from the way of God, and dayly offend againſt the lawes of God, do not they in ſo doing condemn others for the ſame or the like offence as the Judges know them<g ref="char:EOLhyphen"/>ſelves gulty of; And ſaith <hi>Andrew Horne</hi> in the Mirror of Juſtice, Criminall perſons are forbidden by the law, to be Judges for (ſaith the ſame Author) God when he was upon Earth entred into the Conſiſt<g ref="char:EOLhyphen"/>ory, where a Sinner was to be Judged to death when God wrote upon the ground, and ſaid to the ſutors who came to Judge her, who of you is without Sin; and there gave a Judgment as an example to Judges, who take upon them every day to Judge the people, where<g ref="char:EOLhyphen"/>by he taught them, that none ſhould take upon them ſo high and noble a calling as to ſit in the ſeate of God to Judge offendors when they themſelves are guilty and Condemnable, See the mirror of Juſtices, pag. 59. 60.</p>
+            </div>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:59260:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
